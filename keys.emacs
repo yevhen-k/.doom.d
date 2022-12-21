@@ -22,4 +22,6 @@ C-o - go to the prev cursor position
 
 C-x C-; - comment / uncomment
 
+C-c C-c - magit save commit message
+
 SPC h t - load theme "whiteboard" "doom-one", "doom-one-light"
