@@ -25,3 +25,6 @@ C-x C-; - comment / uncomment
 C-c C-c - magit save commit message
 
 SPC h t - load theme "whiteboard" "doom-one", "doom-one-light"
+
+;; Page #N of HUD menu with keybinding hints:
+C-h - on HUD menu
