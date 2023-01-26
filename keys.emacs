@@ -19,6 +19,7 @@ gg V G - select all
 
 g d - go to definition
 C-o - go to the prev cursor position
+C-i - go to the next cursor position
 
 C-x C-; - comment / uncomment
 
