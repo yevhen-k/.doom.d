@@ -29,3 +29,6 @@ SPC h t - load theme "whiteboard" "doom-one", "doom-one-light"
 
 ;; Page #N of HUD menu with keybinding hints:
 C-h - on HUD menu
+
+;; Code documentation view https://github.com/emacs-lsp/lsp-ui
+K
