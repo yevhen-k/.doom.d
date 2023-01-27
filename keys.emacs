@@ -32,3 +32,6 @@ C-h - on HUD menu
 
 ;; Code documentation view https://github.com/emacs-lsp/lsp-ui
 K
+
+;; Help on mode
+C-h m
